@@ -3,22 +3,16 @@ Department
 
 Date: 21 November 2024
 
-Course Title: Physics II
-
-Course Code: PHY-123
-
+Course Title: Physics II  
+Course Code: PHY-123 
 Group No: 07 
-
 Assignment No: 01
 
 Submitted To:
 
 Safwan Uddin Ahmed
-
 Lecturer,
-
 Department of Computer Science and Engineering,
-
 Metropolitan University, Sylhet, Bangladesh.
 
 Submitted by:
