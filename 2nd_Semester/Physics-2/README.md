@@ -15,9 +15,18 @@ Department of Computer Science and Engineering,
 Metropolitan University, Sylhet, Bangladesh.
 
 Submitted by:
-Md. Arafat Islam Zihad | ID: 241 - 115 - 052
-Syed Tahmed Ahmed | ID: 241 -115 - 059
-Tahmid Karim | ID: 241 -115 - 060
-Syed Abu Sadat | ID: 241 -115 - 090
-Md. Thaki Tazwar Al Rahman | ID: 241 -115 - 091
+Md. Arafat Islam Zihad
+ID: 241 - 115 - 052
+
+Syed Tahmed Ahmed
+ID: 241 -115 - 059
+
+Tahmid Karim
+ID: 241 -115 - 060
+
+Syed Abu Sadat
+ID: 241 -115 - 090
+
+Md. Thaki Tazwar Al Rahman
+ID: 241 -115 - 091
 
