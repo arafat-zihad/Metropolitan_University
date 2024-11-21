@@ -1,5 +1,4 @@
 # Physics-2 Assignmnet 
-Department
 
 Date: 21 November 2024
 
@@ -10,27 +9,23 @@ Assignment No: 01
 
 Submitted To:
 
-Safwan Uddin Ahmed
+Safwan Uddin Ahmed 
 Lecturer,
-Department of Computer Science and Engineering,
-Metropolitan University, Sylhet, Bangladesh.
+Department of Computer Science and Engineering, 
+Metropolitan University, Sylhet, Bangladesh. 
 
 Submitted by:
 
-Md. Arafat Islam Zihad
-
+Md. Arafat Islam Zihad 
 ID: 241 - 115 - 052
 
-Syed Tahmed Ahmed
-
+Syed Tahmed Ahmed 
 ID: 241 -115 - 059
 
-Tahmid Karim
-
+Tahmid Karim 
 ID: 241 -115 - 060
 
-Syed Abu Sadat
-
+Syed Abu Sadat 
 ID: 241 -115 - 090
 
 Md. Thaki Tazwar Al Rahman
