@@ -1,4 +1,4 @@
-# Physics-2 Assignmnet 
+# Physics-2 Assignment 
 
 Date: 21 November 2024
 
