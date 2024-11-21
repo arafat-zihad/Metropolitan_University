@@ -9,26 +9,20 @@ Assignment No: 01
 
 Submitted To:
 
-Safwan Uddin Ahmed 
+Safwan Uddin Ahmed, 
 Lecturer,
 Department of Computer Science and Engineering, 
 Metropolitan University, Sylhet, Bangladesh. 
 
 Submitted by:
 
-Md. Arafat Islam Zihad 
-ID: 241 - 115 - 052
+Md. Arafat Islam Zihad, ID: 241 - 115 - 052
 
-Syed Tahmed Ahmed 
-ID: 241 -115 - 059
+Syed Tahmed Ahmed, ID: 241 -115 - 059
 
-Tahmid Karim 
-ID: 241 -115 - 060
+Tahmid Karim, ID: 241 -115 - 060
 
-Syed Abu Sadat 
-ID: 241 -115 - 090
+Syed Abu Sadat, ID: 241 -115 - 090
 
-Md. Thaki Tazwar Al Rahman
-
-ID: 241 -115 - 091
+Md. Thaki Tazwar Al Rahman, ID: 241 -115 - 091
 
