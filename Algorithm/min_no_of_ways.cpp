@@ -19,21 +19,34 @@ int main()
     for(int j=1; j<=amount; j++)
         table[0][j] = amount+1;
 
-    for(int i=1; i<=n; i++)
-    {
-        for(int j=1; j<=amount; j++)
-        {
-            if(j>=coin[i-1])
-            {
-   			table[i][j] = min(table[i-1][j], (1+table[i][j-coin[i-1]]));
-            }
-            else
-            {
-                table[i][j] = table[i-1][j];
-            }
-        }
+    // for(int i=1; i<=n; i++)
+    // {
+    //     for(int j=1; j<=amount; j++)
+    //     {
+    //         if(j>=coin[i-1])
+    //         {
+   	// 		table[i][j] = min(table[i-1][j], (1+table[i][j-coin[i-1]]));
+    //         }
+    //         else
+    //         {
+    //             table[i][j] = table[i-1][j];
+    //         }
+    //     }
 
+    // }
+
+    for(int i = 1; i <= n; i++)
+    {
+        for(int j = 1; j <= amount; j++)
+        {
+            if(coin[i-1] > j)
+                table[i][j] = table[i-1][j]; // can't include current coin
+            else
+                table[i][j] = min(table[i-1][j], 1 + table[i][j - coin[i-1]]);
+        }
     }
+
+
     cout <<"Minimum number of coin is: "<< table[n][amount] << endl;
 
     for(int i=0; i<=n; i++)
@@ -44,3 +57,4 @@ int main()
     }
     return 0;
 }
+
