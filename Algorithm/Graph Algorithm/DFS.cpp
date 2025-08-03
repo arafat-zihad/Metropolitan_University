@@ -38,7 +38,7 @@ int main()
         st.pop();
         cout << top << endl;
 
-        for(int i=adj[top].size()-1; i>=0; i--) // reverse to match BFS order
+        for(int i=adj[top].size()-1; i>=0; i--) 
         {
             int next = adj[top][i];
             if(!visit[next])
