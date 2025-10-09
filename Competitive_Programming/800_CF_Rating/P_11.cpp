@@ -1,33 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 int main() {
-    long long n;
-    cin >> n;
+    int t; cin >> t;
+    while (t--) {
+        int n; cin >> n;
+        vector<string> grid(n);
+        for (int i = 0; i < n; i++) cin >> grid[i];
 
-    int cnt = 0;        // count lucky digits
-    while (n > 0) {
-        int digit = n % 10;
-        if (digit == 4 || digit == 7) {
-            cnt++;
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == '#') cout << j + 1 << " ";
+            }
         }
-        n /= 10;
+        cout << endl;
     }
-
-    bool flag = true;   // assume count is lucky
-    if (cnt == 0) flag = false;  // no lucky digits at all
-
-    while (cnt > 0) {
-        int d = cnt % 10;
-        if (d != 4 && d != 7) {
-            flag = false;
-            break;
-        }
-        cnt /= 10;
-    }
-
-    if (flag == 1) cout << "YES" << endl;
-    else cout << "NO" << endl;
-
     return 0;
 }
