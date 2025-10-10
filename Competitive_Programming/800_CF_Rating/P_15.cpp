@@ -14,6 +14,7 @@ int main(){
         
         if(cntA > cntB) cout << "A" << endl;
         else cout << "B" << endl;
-    }
+    } 
+
     return 0;
 }
