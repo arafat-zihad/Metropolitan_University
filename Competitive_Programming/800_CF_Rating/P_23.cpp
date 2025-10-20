@@ -18,6 +18,9 @@ int main(){
         else {
             cnt++; 
         }
+
+
+        
     }
     cout << cnt << endl;
     return 0;
