@@ -1,14 +1,4 @@
-pm = 01 = plus minus
-mp = 10 = minus plus
-cnt = 0;
-int a;
-
-loop(){
-    int p = 0;
-    cin >> a; // a = 10
-    if(p != a ){ // 1 
-    cnt++; 1 2
-    }
-    p = a; // p = 01
-
-}
+n 
+if n % 10 == 0{
+    n /= 10;
+} else n -= 1;
