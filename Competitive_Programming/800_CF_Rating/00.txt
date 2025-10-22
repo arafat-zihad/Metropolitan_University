@@ -1,4 +1,8 @@
-n 
-if n % 10 == 0{
-    n /= 10;
-} else n -= 1;
+a idle 
+place(0,0,0)
+a force
+
+answer equilibrium or not
+
+n
+x y z
