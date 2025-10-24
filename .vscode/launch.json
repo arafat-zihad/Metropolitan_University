@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zihome/Documents/University/Metropolitan_University/Competitive_Programming/900_CF_Rating",
+      "program": "/Users/zihome/Documents/University/Metropolitan_University/Competitive_Programming/900_CF_Rating/build/Debug/outDebug"
+    }
+  ]
+}
