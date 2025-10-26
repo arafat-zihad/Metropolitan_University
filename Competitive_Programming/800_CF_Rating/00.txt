@@ -1,8 +1,4 @@
-a idle 
-place(0,0,0)
-a force
+abs
+Abz
 
-answer equilibrium or not
-
-n
-x y z
+if(s.end() < )
