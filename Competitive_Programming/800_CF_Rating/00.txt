@@ -1,4 +1,3 @@
-abs
-Abz
-
-if(s.end() < )
+weight a < b
+a = 1 year 3x
+b = 1 year 2x
