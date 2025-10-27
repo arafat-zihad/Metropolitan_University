@@ -1,0 +1,2 @@
+nutural = positive int
+start from n
