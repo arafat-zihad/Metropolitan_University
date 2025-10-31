@@ -1,0 +1,4 @@
+rectangular = n x m
+
+flagstone = a x a
+
