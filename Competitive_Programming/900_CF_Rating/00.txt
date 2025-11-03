@@ -1,9 +1,1 @@
-insert WUB
-before start the first word, inserted number 0
-after the last word, inserted number 0
-
-WUB WUB  I  WUB  AM  WUB WUB  X
-
-WUB WUB  I AM  WUB  X
-
-my task is to remove WUB from the string 
+n
