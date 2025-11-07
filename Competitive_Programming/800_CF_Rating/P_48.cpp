@@ -1,38 +1,24 @@
+// https://codeforces.com/problemset/problem/228/A
+
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    // int n; cin >> n;
+    vector<long long> v(4);
+    for (int i = 0; i < 4; i++)
+    {
+        cin >> v[i];
+    }
+    
+    int cnt = 0;
 
-    // // Declare a array
-    // int arr[n+1];
-    // for(int i = 0; i < n; i++){
-    //     cin >> arr[i];
-    // }
+    for(int i = 0; i <4; i++){
+        if(v[i] == v[i+1] || v[i] == v[i+2] || v[i] == v[i+3]){
+                cnt++;
+        }
+    }
 
-    // // Declare a Prefix Sum array
-    // int pre[n+1];
-
-    // // Add values in prefix sum
-    // pre[0] = arr[0];
-    // for (int i = 1; i < n; i++)
-    // {
-    //     pre[i] = pre[i-1] + arr[i];
-    // }
-
-    // int q; cin >> q;
-    // while (q--)
-    // {
-    //     int l, r; cin >> l >> r;
-    //     if(l==0){
-    //         cout << pre[r] << endl;
-    //     } else cout << pre[r] - pre[l-1] << endl;
-
-    // }
+    cout << cnt << endl;
 
     
-
-    
-
-
     return 0;
 }
