@@ -15,6 +15,8 @@ int main(){
         } else{
              cout << n / 10;
         }
+
+    // foe
     }
     return 0;
 }
